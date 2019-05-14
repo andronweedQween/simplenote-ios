@@ -69,7 +69,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   Automattic-Tracks-iOS:
-    :commit: 521580398de5fef426999c5835d1562686934065
+    :commit: 9013e6ab5fd5f26d1f38bc01117cbfc39733c6d9
     :git: https://github.com/Automattic/Automattic-Tracks-iOS.git
   WordPress-AppbotX:
     :commit: 479d05f7d6b963c9b44040e6ea9f190e8bd9a47a
